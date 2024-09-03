@@ -1,0 +1,1 @@
+shards and replications brings HA & FT to ELK indexes
