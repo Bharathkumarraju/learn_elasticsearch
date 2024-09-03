@@ -1,2 +1,3 @@
 Elasticsearch uses inverted index for rapid full-text-searches
-Tokenization
+
+Tokenization -- Normalization -- stopwords removal(like 'the') --
